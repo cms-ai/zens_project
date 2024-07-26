@@ -15,8 +15,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference. -->
 
-
 # This is document for zens project test
+
 1. Algorithm
-Answer: Using this link : [min_max](https://dartpad.dev/?id=c3c8b5373ca20ccb0750b388b52226b9)
-2. Mobile test: 
+   Answer: Using this link : [min_max](https://dartpad.dev/?id=c3c8b5373ca20ccb0750b388b52226b9)
+2. Mobile test:
+   - Image result File: result.png
+   - Set up enviroment:
+     - Flutter: 3.19.6
+   - APK file: app-release.apk or use can run the project
