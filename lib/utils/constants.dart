@@ -17,4 +17,7 @@ class AppConstants {
       "This app is created as part of Hlsolutions program. The materials con-tained on this website are provided for general infomation only and do not contritute any form of advice. HLS assumes no responbility for the accuracy of any particular statement and accepts no liability for any loss or damage which may arise from reliance on the infor-mation contained on this website";
 
   static const String desFooter2 = "Copyright 2021 HLS";
+
+  static const String emptyJoke =
+      "That's all the jokes for today! Come back another day!";
 }
